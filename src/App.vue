@@ -1,7 +1,6 @@
-
 <template>
   <div id="app">
-    <ActivityList/>
+    <ActivityList />
   </div>
 </template>
 
